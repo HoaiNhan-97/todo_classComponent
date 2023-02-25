@@ -1,0 +1,10 @@
+.container {
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    border-top: 1px solid #c4bebecb;
+    padding: 3px;
+}
+.item {
+    flex-grow: 1;
+}
